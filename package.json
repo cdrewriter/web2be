@@ -14,7 +14,7 @@
   "devDependencies": {
     "html5-boilerplate": "^7.2.0",
     "webpack": "^4.36.1",
-    "webpack-cli": "^3.3.6",
+    "webpack-cli": "^3.3.12",
     "webpack-livereload-plugin": "^2.2.0"
   },
   "dependencies": {
